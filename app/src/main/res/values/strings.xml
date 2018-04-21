@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FireBaseOne</string>
+    <string name="Name">Name : </string>
+    <string name="Choose_Your_Puja_Set">Choose Your Puja Set : </string>
+    <string name="Address">Address : </string>
+    <string name="Mobile_Number">Mobile Number of Receiving Person : </string>
+    <string name="Place_The_Order">Place The Order</string>
+
+    <string name="Satyanarayan">Satyanarayan</string>
+    <string name="Diwali_Puja">Diwali Puja</string>
+    <string name="Adik_Mass">Adhik Mass</string>
+
+    <string name="Place_An_Order">|| Place Order ||</string>
+</resources>
